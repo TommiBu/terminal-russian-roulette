@@ -4,7 +4,7 @@ A simple command-line game written in Python. I created this project to practice
 
 ## Features
 
-- ASCII art visuals
+- ASCII art gun
 - Suspenseful time delays using the time library
 - Screen clearing for a clean interface
 - A 1/6 chance of terminating the process
@@ -16,4 +16,4 @@ A simple command-line game written in Python. I created this project to practice
 3. Run the game in your terminal:
 
 ```bash
-python3 ruleta.py
+python3 russian_roulete.py
